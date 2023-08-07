@@ -1,0 +1,19 @@
+{
+  "name": "dz-copy",
+  "version": "1.0.1",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "mygz",
+  "license": "ISC",
+  "keywords": [
+    "clipboard",
+    "copy",
+    "browser"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dz-copy": "index.js"
+  }
+}
